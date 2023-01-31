@@ -1,5 +1,5 @@
 body {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 /* Banner */
@@ -11,7 +11,7 @@ header {
 }
 
 .site-title {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 nav ul {
@@ -32,6 +32,12 @@ a, a:visited {
   background-color: rgb(184, 198, 158);
 }
 img {
-  width: 100px;
+  width: 150px;
   height: initial;
+  
+}
+
+div {
+  display: flex;
+
 }
